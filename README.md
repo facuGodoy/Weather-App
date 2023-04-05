@@ -3,4 +3,4 @@ El proyecto esta hecho con HTML, CSS y JavaScript podria haberlo hecho con React
 
 Aca les dejo una pequeña muestra de como funciona la App
 
-![Gif de navegacion](/VE%20Project%201.wfp)
+![Gif de navegacion](/Weather-App.gif)
